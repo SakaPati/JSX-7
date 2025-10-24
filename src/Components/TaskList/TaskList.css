@@ -1,0 +1,21 @@
+.TasksContainer{
+    width: 200px;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.createTaskBtn{
+    margin-top: 10px;
+}
+
+.deletTaskBtn{
+    margin-left: 25px;
+}
+
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
